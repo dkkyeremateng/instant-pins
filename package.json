@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hamid Ladan ",
+  "author": "Hamid Ladan | Daniel Kofi Kyeremateng",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.1.4",
