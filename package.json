@@ -54,7 +54,7 @@
     "sendinblue-api": "^1.0.8",
     "slack-node": "^0.1.8",
     "slackbots": "^1.1.0",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.5.0",
     "universal-analytics": "^0.4.15",
     "xoauth2": "^1.2.0"
   }
